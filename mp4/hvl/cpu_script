@@ -1,0 +1,23 @@
+-top mp4_tb 
+../hdl/include/rv32i_mux_types.sv 
+../hdl/include/rv32i_types.sv 
+../hdl/include/ooo_types.sv 
+../hdl/include/ooo_itfs.sv 
+../hdl/out_of_order_cpu/alu.sv
+../hdl/out_of_order_cpu/alu_rs.sv
+../hdl/out_of_order_cpu/cmp.sv
+../hdl/out_of_order_cpu/cmp_rs.sv
+../hdl/out_of_order_cpu/lsb_rs.sv
+../hdl/out_of_order_cpu/jalr.sv
+../hdl/out_of_order_cpu/branch_predictor.sv
+../hdl/out_of_order_cpu/decoder.sv
+../hdl/out_of_order_cpu/regfile.sv
+../hdl/out_of_order_cpu/inst_queue.sv
+../hdl/out_of_order_cpu/reorder_buffer.sv
+../hdl/out_of_order_cpu/cpu.sv
+../hvl/tb_itf.sv
+../hvl/rvfi_itf.sv
+../hvl/magic_dual_port.sv
+../hvl/rvfimon.v
+../hvl/source_tb.sv
+../hvl/top_cpu.sv
